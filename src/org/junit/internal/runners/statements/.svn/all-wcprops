@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ee461l-findbugs/!svn/ver/3/jUnit/src/org/junit/internal/runners/statements
+END
+Fail.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ee461l-findbugs/!svn/ver/3/jUnit/src/org/junit/internal/runners/statements/Fail.java
+END
+RunBefores.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/ee461l-findbugs/!svn/ver/3/jUnit/src/org/junit/internal/runners/statements/RunBefores.java
+END
+InvokeMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/ee461l-findbugs/!svn/ver/3/jUnit/src/org/junit/internal/runners/statements/InvokeMethod.java
+END
+ExpectException.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/ee461l-findbugs/!svn/ver/3/jUnit/src/org/junit/internal/runners/statements/ExpectException.java
+END
+FailOnTimeout.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/ee461l-findbugs/!svn/ver/3/jUnit/src/org/junit/internal/runners/statements/FailOnTimeout.java
+END
+RunAfters.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/ee461l-findbugs/!svn/ver/3/jUnit/src/org/junit/internal/runners/statements/RunAfters.java
+END

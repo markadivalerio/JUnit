@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/ee461l-findbugs/!svn/ver/3/jUnit/src/junit/framework
+END
+TestResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/ee461l-findbugs/!svn/ver/3/jUnit/src/junit/framework/TestResult.java
+END
+JUnit4TestAdapterCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ee461l-findbugs/!svn/ver/3/jUnit/src/junit/framework/JUnit4TestAdapterCache.java
+END
+Protectable.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/ee461l-findbugs/!svn/ver/3/jUnit/src/junit/framework/Protectable.java
+END
+AssertionFailedError.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ee461l-findbugs/!svn/ver/3/jUnit/src/junit/framework/AssertionFailedError.java
+END
+Assert.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ee461l-findbugs/!svn/ver/3/jUnit/src/junit/framework/Assert.java
+END
+TestListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ee461l-findbugs/!svn/ver/3/jUnit/src/junit/framework/TestListener.java
+END
+TestSuite.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/ee461l-findbugs/!svn/ver/3/jUnit/src/junit/framework/TestSuite.java
+END
+TestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ee461l-findbugs/!svn/ver/3/jUnit/src/junit/framework/TestCase.java
+END
+JUnit4TestCaseFacade.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ee461l-findbugs/!svn/ver/3/jUnit/src/junit/framework/JUnit4TestCaseFacade.java
+END
+ComparisonFailure.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ee461l-findbugs/!svn/ver/3/jUnit/src/junit/framework/ComparisonFailure.java
+END
+ComparisonCompactor.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ee461l-findbugs/!svn/ver/3/jUnit/src/junit/framework/ComparisonCompactor.java
+END
+TestFailure.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/ee461l-findbugs/!svn/ver/3/jUnit/src/junit/framework/TestFailure.java
+END
+JUnit4TestAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ee461l-findbugs/!svn/ver/3/jUnit/src/junit/framework/JUnit4TestAdapter.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ee461l-findbugs/!svn/ver/3/jUnit/src/junit/framework/package-info.java
+END
+Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/ee461l-findbugs/!svn/ver/3/jUnit/src/junit/framework/Test.java
+END

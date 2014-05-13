@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ee461l-findbugs/!svn/ver/3/jUnit/src/org/junit/runner/manipulation
+END
+Sorter.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ee461l-findbugs/!svn/ver/3/jUnit/src/org/junit/runner/manipulation/Sorter.java
+END
+Filter.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ee461l-findbugs/!svn/ver/3/jUnit/src/org/junit/runner/manipulation/Filter.java
+END
+Sortable.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ee461l-findbugs/!svn/ver/3/jUnit/src/org/junit/runner/manipulation/Sortable.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ee461l-findbugs/!svn/ver/3/jUnit/src/org/junit/runner/manipulation/package-info.java
+END
+NoTestsRemainException.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/ee461l-findbugs/!svn/ver/3/jUnit/src/org/junit/runner/manipulation/NoTestsRemainException.java
+END
+Filterable.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ee461l-findbugs/!svn/ver/3/jUnit/src/org/junit/runner/manipulation/Filterable.java
+END

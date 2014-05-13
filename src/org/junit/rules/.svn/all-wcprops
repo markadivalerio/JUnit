@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/ee461l-findbugs/!svn/ver/3/jUnit/src/org/junit/rules
+END
+TemporaryFolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/ee461l-findbugs/!svn/ver/3/jUnit/src/org/junit/rules/TemporaryFolder.java
+END
+TestRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ee461l-findbugs/!svn/ver/3/jUnit/src/org/junit/rules/TestRule.java
+END
+TestName.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ee461l-findbugs/!svn/ver/3/jUnit/src/org/junit/rules/TestName.java
+END
+TestWatchman.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ee461l-findbugs/!svn/ver/3/jUnit/src/org/junit/rules/TestWatchman.java
+END
+MethodRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/ee461l-findbugs/!svn/ver/3/jUnit/src/org/junit/rules/MethodRule.java
+END
+RunRules.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ee461l-findbugs/!svn/ver/3/jUnit/src/org/junit/rules/RunRules.java
+END
+TestWatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/ee461l-findbugs/!svn/ver/3/jUnit/src/org/junit/rules/TestWatcher.java
+END
+ExternalResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ee461l-findbugs/!svn/ver/3/jUnit/src/org/junit/rules/ExternalResource.java
+END
+Verifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ee461l-findbugs/!svn/ver/3/jUnit/src/org/junit/rules/Verifier.java
+END
+ErrorCollector.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/ee461l-findbugs/!svn/ver/3/jUnit/src/org/junit/rules/ErrorCollector.java
+END
+Timeout.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/ee461l-findbugs/!svn/ver/3/jUnit/src/org/junit/rules/Timeout.java
+END

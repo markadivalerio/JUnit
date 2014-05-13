@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/ee461l-findbugs/!svn/ver/3/jUnit/src/org/junit
+END
+Before.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/ee461l-findbugs/!svn/ver/3/jUnit/src/org/junit/Before.java
+END
+After.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/ee461l-findbugs/!svn/ver/3/jUnit/src/org/junit/After.java
+END
+Rule.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/ee461l-findbugs/!svn/ver/3/jUnit/src/org/junit/Rule.java
+END
+AfterClass.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/ee461l-findbugs/!svn/ver/3/jUnit/src/org/junit/AfterClass.java
+END
+BeforeClass.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ee461l-findbugs/!svn/ver/3/jUnit/src/org/junit/BeforeClass.java
+END
+Assert.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/ee461l-findbugs/!svn/ver/3/jUnit/src/org/junit/Assert.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ee461l-findbugs/!svn/ver/3/jUnit/src/org/junit/package-info.java
+END
+ClassRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ee461l-findbugs/!svn/ver/3/jUnit/src/org/junit/ClassRule.java
+END
+Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/ee461l-findbugs/!svn/ver/3/jUnit/src/org/junit/Test.java
+END
+Ignore.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/ee461l-findbugs/!svn/ver/3/jUnit/src/org/junit/Ignore.java
+END
+ComparisonFailure.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/ee461l-findbugs/!svn/ver/3/jUnit/src/org/junit/ComparisonFailure.java
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/ee461l-findbugs/!svn/ver/3/jUnit/src/org/junit/internal
+END
+RealSystem.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ee461l-findbugs/!svn/ver/3/jUnit/src/org/junit/internal/RealSystem.java
+END
+JUnitSystem.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/ee461l-findbugs/!svn/ver/3/jUnit/src/org/junit/internal/JUnitSystem.java
+END
+ArrayComparisonFailure.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ee461l-findbugs/!svn/ver/3/jUnit/src/org/junit/internal/ArrayComparisonFailure.java
+END
+ComparisonCriteria.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ee461l-findbugs/!svn/ver/3/jUnit/src/org/junit/internal/ComparisonCriteria.java
+END
+ExactComparisonCriteria.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ee461l-findbugs/!svn/ver/3/jUnit/src/org/junit/internal/ExactComparisonCriteria.java
+END
+InexactComparisonCriteria.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ee461l-findbugs/!svn/ver/3/jUnit/src/org/junit/internal/InexactComparisonCriteria.java
+END
+TextListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/ee461l-findbugs/!svn/ver/3/jUnit/src/org/junit/internal/TextListener.java
+END

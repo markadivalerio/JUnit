@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ee461l-findbugs/!svn/ver/3/jUnit/src/org/junit/internal/builders
+END
+AllDefaultPossibilitiesBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/ee461l-findbugs/!svn/ver/3/jUnit/src/org/junit/internal/builders/AllDefaultPossibilitiesBuilder.java
+END
+IgnoredBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ee461l-findbugs/!svn/ver/3/jUnit/src/org/junit/internal/builders/IgnoredBuilder.java
+END
+JUnit3Builder.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ee461l-findbugs/!svn/ver/3/jUnit/src/org/junit/internal/builders/JUnit3Builder.java
+END
+IgnoredClassRunner.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ee461l-findbugs/!svn/ver/3/jUnit/src/org/junit/internal/builders/IgnoredClassRunner.java
+END
+JUnit4Builder.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ee461l-findbugs/!svn/ver/3/jUnit/src/org/junit/internal/builders/JUnit4Builder.java
+END
+NullBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ee461l-findbugs/!svn/ver/3/jUnit/src/org/junit/internal/builders/NullBuilder.java
+END
+AnnotatedBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ee461l-findbugs/!svn/ver/3/jUnit/src/org/junit/internal/builders/AnnotatedBuilder.java
+END
+SuiteMethodBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ee461l-findbugs/!svn/ver/3/jUnit/src/org/junit/internal/builders/SuiteMethodBuilder.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/ee461l-findbugs/!svn/ver/3/jUnit/src/org/junit/internal/runners/model
+END
+EachTestNotifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/ee461l-findbugs/!svn/ver/3/jUnit/src/org/junit/internal/runners/model/EachTestNotifier.java
+END
+MultipleFailureException.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/ee461l-findbugs/!svn/ver/3/jUnit/src/org/junit/internal/runners/model/MultipleFailureException.java
+END
+ReflectiveCallable.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/ee461l-findbugs/!svn/ver/3/jUnit/src/org/junit/internal/runners/model/ReflectiveCallable.java
+END

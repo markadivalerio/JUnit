@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ee461l-findbugs/!svn/ver/3/jUnit/src/org/junit/internal/requests
+END
+SortingRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ee461l-findbugs/!svn/ver/3/jUnit/src/org/junit/internal/requests/SortingRequest.java
+END
+ClassRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ee461l-findbugs/!svn/ver/3/jUnit/src/org/junit/internal/requests/ClassRequest.java
+END
+FilterRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ee461l-findbugs/!svn/ver/3/jUnit/src/org/junit/internal/requests/FilterRequest.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ee461l-findbugs/!svn/ver/3/jUnit/src/org/junit/internal/requests/package-info.java
+END

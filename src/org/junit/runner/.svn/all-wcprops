@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/ee461l-findbugs/!svn/ver/3/jUnit/src/org/junit/runner
+END
+Runner.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/ee461l-findbugs/!svn/ver/3/jUnit/src/org/junit/runner/Runner.java
+END
+Request.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ee461l-findbugs/!svn/ver/3/jUnit/src/org/junit/runner/Request.java
+END
+JUnitCore.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/ee461l-findbugs/!svn/ver/3/jUnit/src/org/junit/runner/JUnitCore.java
+END
+Result.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/ee461l-findbugs/!svn/ver/3/jUnit/src/org/junit/runner/Result.java
+END
+Description.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ee461l-findbugs/!svn/ver/3/jUnit/src/org/junit/runner/Description.java
+END
+Computer.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/ee461l-findbugs/!svn/ver/3/jUnit/src/org/junit/runner/Computer.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ee461l-findbugs/!svn/ver/3/jUnit/src/org/junit/runner/package-info.java
+END
+Describable.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ee461l-findbugs/!svn/ver/3/jUnit/src/org/junit/runner/Describable.java
+END
+RunWith.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ee461l-findbugs/!svn/ver/3/jUnit/src/org/junit/runner/RunWith.java
+END

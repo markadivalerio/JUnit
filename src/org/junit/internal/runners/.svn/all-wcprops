@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ee461l-findbugs/!svn/ver/3/jUnit/src/org/junit/internal/runners
+END
+MethodRoadie.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ee461l-findbugs/!svn/ver/3/jUnit/src/org/junit/internal/runners/MethodRoadie.java
+END
+FailedBefore.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ee461l-findbugs/!svn/ver/3/jUnit/src/org/junit/internal/runners/FailedBefore.java
+END
+SuiteMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ee461l-findbugs/!svn/ver/3/jUnit/src/org/junit/internal/runners/SuiteMethod.java
+END
+InitializationError.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ee461l-findbugs/!svn/ver/3/jUnit/src/org/junit/internal/runners/InitializationError.java
+END
+TestClass.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ee461l-findbugs/!svn/ver/3/jUnit/src/org/junit/internal/runners/TestClass.java
+END
+ErrorReportingRunner.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/ee461l-findbugs/!svn/ver/3/jUnit/src/org/junit/internal/runners/ErrorReportingRunner.java
+END
+JUnit38ClassRunner.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ee461l-findbugs/!svn/ver/3/jUnit/src/org/junit/internal/runners/JUnit38ClassRunner.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ee461l-findbugs/!svn/ver/3/jUnit/src/org/junit/internal/runners/package-info.java
+END
+ClassRoadie.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ee461l-findbugs/!svn/ver/3/jUnit/src/org/junit/internal/runners/ClassRoadie.java
+END
+TestMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ee461l-findbugs/!svn/ver/3/jUnit/src/org/junit/internal/runners/TestMethod.java
+END
+JUnit4ClassRunner.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ee461l-findbugs/!svn/ver/3/jUnit/src/org/junit/internal/runners/JUnit4ClassRunner.java
+END
+MethodValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ee461l-findbugs/!svn/ver/3/jUnit/src/org/junit/internal/runners/MethodValidator.java
+END
